@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>السيرة الذاتية - إسلام يحيى</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+        }
+        .section p {
+            margin: 10px 0;
+        }
+        .contact-info {
+            list-style: none;
+            padding: 0;
+        }
+        .contact-info li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>إسلام يحيى - السيرة الذاتية</h1>
+
+        <div class="section">
+            <h2>المعلومات الشخصية</h2>
+            <ul class="contact-info">
+                <li><strong>العنوان:</strong> الزقازيق، مصر</li>
+                <li><strong>الهاتف:</strong> 00201003256690</li>
+                <li><strong>البريد الإلكتروني:</strong> Islamyahia100@gmail.com</li>
+                <li><strong>العمر:</strong> 33 سنة</li>
+                <li><strong>الحالة الاجتماعية:</strong> متزوج</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>الملخص المهني</h2>
+            <p>مدير تنفيذي ذو خبرة واسعة في مجال التسويق والإدارة مع سجل حافل في تطوير استراتيجيات تسويقية ناجحة وتحقيق نمو ملحوظ في المبيعات. عملت في مناصب قيادية في شركات مختلفة، حيث قدت فرق عمل متعددة لتحقيق الأهداف الاستراتيجية.</p>
+        </div>
+
+        <div class="section">
+            <h2>الخبرات المهنية</h2>
+            <p><strong>مدير تنفيذي - شركة فري فيت</strong> (يناير 2024 - حتى الآن)</p>
+            <ul>
+                <li>قيادة وتوجيه الشركة لتحقيق أهدافها الاستراتيجية.</li>
+                <li>الإشراف على تطوير المنتجات والخدمات وتحسين العمليات الداخلية.</li>
+                <li>تطوير خطط تسويقية شاملة لزيادة الانتشار وتحقيق النمو المستدام.</li>
+                <li>بناء العلاقات مع الشركاء والعملاء الرئيسيين.</li>
+            </ul>
+
+            <p><strong>مدير التسويق - شركة فري فيت</strong> (يناير 2018 - ديسمبر 2023)</p>
+            <ul>
+                <li>إدارة فريق التسويق وتطوير حملات إعلانية لمنتجات الشركة البيطرية.</li>
+                <li>استهداف الأطباء البيطريين والعملاء الرئيسيين من خلال منصات مثل فيسبوك، ماسنجر، وواتساب.</li>
+                <li>تحقيق نتائج ملحوظة من خلال تحسين الاستراتيجيات التسويقية وزيادة المبيعات.</li>
+            </ul>
+
+            <p><strong>مدير التسويق والمبيعات - A2 VET مصنع</strong> (ديسمبر 2019 - ديسمبر 2023)</p>
+            <ul>
+                <li>قيادة فريق المبيعات والتسويق منذ بداية المصنع.</li>
+                <li>تصميم وإطلاق حملات تسويقية للتعاقد على منافذ بيع جديدة وجلب شركاء جدد.</li>
+                <li>التعاقد مع 32 منفذ بيع و27 موزع معتمد في مختلف المحافظات.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>المهارات</h2>
+            <ul>
+                <li>تطوير الاستراتيجيات التسويقية</li>
+                <li>إدارة فرق العمل</li>
+                <li>التسويق عبر وسائل التواصل الاجتماعي (فيسبوك، إنستغرام، تويتر)</li>
+                <li>تحليل البيانات وقياس الأداء</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>التعليم</h2>
+            <p><strong>بكالوريوس آداب - قسم التاريخ</strong> (أكاديمية كينج مريوط - 2012)</p>
+        </div>
+
+        <div class="section">
+            <h2>اللغات</h2>
+            <p>اللغة العربية: لغة أم</p>
+            <p>اللغة الإنجليزية: مستوى متوسط</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
